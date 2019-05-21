@@ -1,4 +1,4 @@
-[Read More Step]: https://github.com/naughtybabyfirst/openface_install/blob/master/Openface%E5%AE%89%E8%A3%85%E6%B5%8B%E8%AF%95%E8%AF%B4%E6%98%8E%20%E5%8F%8A%20GANimation%E5%AE%89%E8%A3%85.md
+[Read More Step]: https://github.com/naughtybabyfirst/openface_install/blob/master/Openface%E5%AE%89%E8%A3%85%E6%B5%8B%E8%AF%95%E8%AF%B4%E6%98%8E%20%E5%8F%8A%20GANimation%E5%AE%89%E8%A3%85.md " Read"
 
 
 
